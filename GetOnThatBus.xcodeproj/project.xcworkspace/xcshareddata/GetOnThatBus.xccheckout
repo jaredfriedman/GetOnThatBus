@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6858889F-FFA6-4829-B596-C2282109D0A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GetOnThatBus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>044E98DE-27A0-4976-BBCC-390ABD543CBF</key>
+		<string>https://github.com/jaredfriedman/MySafari.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GetOnThatBus/GetOnThatBus.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>044E98DE-27A0-4976-BBCC-390ABD543CBF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jaredfriedman/MySafari.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>044E98DE-27A0-4976-BBCC-390ABD543CBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>044E98DE-27A0-4976-BBCC-390ABD543CBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mobile_Makers</string>
+		</dict>
+	</array>
+</dict>
+</plist>
